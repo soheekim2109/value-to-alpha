@@ -1,6 +1,6 @@
 # value-to-alpha
 
-<img alt="" src="https://github.com/soheekim2109/value-to-alpha/blob/main/static/image.jpg" width=500px />
+<img alt="" src="https://github.com/soheekim2109/value-to-alpha/blob/main/image.jpg" width=500px />
 
 White background to transparent.
 
@@ -8,7 +8,7 @@ This program generates a new PNG file with an all-black colour and transparency 
 
 ## To use
 
-Download `transparent.py`
+Download `transparent.py`.
 
 Run:
 ```
